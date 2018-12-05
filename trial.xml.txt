@@ -1,0 +1,30 @@
+<records>
+<data>
+<board> BOARD 1
+</board>
+<peri1>USB</peri1>
+<peri2>Flash Drive</peri2>
+<peri3>Graphic Port</peri3>
+</data>
+<data>
+<board> BOARD 2
+</board>
+<peri1>USB2</peri1>
+<peri2>Flash Drive2</peri2>
+<peri3>Graphic Port2</peri3>
+</data>
+<data>
+<board> BOARD 3
+</board>
+<peri1>USB3</peri1>
+<peri2>Flash Drive3</peri2>
+<peri3>Graphic Port3</peri3>
+</data>
+<data>
+<board> BOARD 4
+</board>
+<peri1>USB4</peri1>
+<peri2>Flash Drive4</peri2>
+<peri3>Graphic Port4</peri3>
+</data>
+</records>
